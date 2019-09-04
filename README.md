@@ -1,2 +1,2 @@
-# -Mastering-Keras
+# Course under development
  Mastering Keras, Published by Packt
