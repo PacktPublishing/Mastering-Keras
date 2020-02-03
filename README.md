@@ -24,7 +24,7 @@ If you are a machine learning or deep learning professional (or enthusiast) and 
 
 Familiarity with machine learning approaches and practical experience with Keras are assumed. Fluency with Python programming is assumed.
 ### Technical Requirements <br/>
-Hardware Requirements<br/>
+Hardware Requirements<br/><br/>
 For successful completion of this course, we recommend a medium configuration computer. For the speedy execution of some code, it will be advantageous to have an NVIDIA GPU and be utilizing the GPU accelerated version of TensorFlow. <br/><br/>
 Software Requirements<br/>
 
@@ -34,8 +34,7 @@ The videos in this course include coding in Python Jupyter Notebook environment 
 
 If you wish to run Python and Jupyter Notebook without Anaconda, they can be installed individually: <br/>
 
-Python - available at https://www.python.org/. You will also need to have the following libraries installed: <br/>
-1.	
+1. Python - available at https://www.python.org/. You will also need to have the following libraries installed: <br/>	
 •	Keras version 2.24 or later <br/>
 •	Tensorflow version 1.8 or later<br/><br/>
 
